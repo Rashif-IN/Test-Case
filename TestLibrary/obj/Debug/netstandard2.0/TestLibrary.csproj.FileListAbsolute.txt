@@ -1,0 +1,8 @@
+/Users/user/Projects/TestCase/TestLibrary/bin/Debug/netstandard2.0/TestLibrary.deps.json
+/Users/user/Projects/TestCase/TestLibrary/bin/Debug/netstandard2.0/TestLibrary.dll
+/Users/user/Projects/TestCase/TestLibrary/bin/Debug/netstandard2.0/TestLibrary.pdb
+/Users/user/Projects/TestCase/TestLibrary/obj/Debug/netstandard2.0/TestLibrary.csprojAssemblyReference.cache
+/Users/user/Projects/TestCase/TestLibrary/obj/Debug/netstandard2.0/TestLibrary.AssemblyInfoInputs.cache
+/Users/user/Projects/TestCase/TestLibrary/obj/Debug/netstandard2.0/TestLibrary.AssemblyInfo.cs
+/Users/user/Projects/TestCase/TestLibrary/obj/Debug/netstandard2.0/TestLibrary.dll
+/Users/user/Projects/TestCase/TestLibrary/obj/Debug/netstandard2.0/TestLibrary.pdb
